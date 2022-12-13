@@ -5,10 +5,10 @@
     box-sizing: border-box;
 }
 
-/*body{*/
-/*    background: #080808;*/
-/*    color: #fff;*/
-/*}*/
+body{
+   background: #080808;
+   color: #fff;
+}
 
 #header{
     width: 100%;
