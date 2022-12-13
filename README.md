@@ -1,2 +1,2 @@
-# myatthu.githu.io
+# myatthu.github.io
 Myat Thu's portfolio
