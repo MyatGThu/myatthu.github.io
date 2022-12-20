@@ -16,3 +16,10 @@ body{
     background: rgb(0,0,0);
 }
 
+.logo{
+    font-size: 35px;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
